@@ -1,4 +1,5 @@
 # Getting started with Rust-lang
-Terminal output will look like this:
 
-![Rust Clock](src/rust_clock.GIF)
+> Day 1 :: Using Chrono package, created this clock.
+
+![Rust Clock](day1_clock/src/rust_clock.GIF)
